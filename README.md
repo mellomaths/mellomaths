@@ -7,7 +7,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mellomaths@gmail.com)](mailto:mellomaths@gmail.com)
 
 - 💻 I’m currently a APIs and Microservices developer at [Sensedia](https://sensedia.com/).
+- 📜 I am a Computer Science student at Rio de Janeiro State University - [UERJ](https://www.uerj.br/).
 - 🔭 Sometimes I'm streaming on [my channel](https://www.twitch.tv/mellomathsz) at Twitch.
+- 🎯 I love to develop APIs and backend applications with Java, Python or Node.js.
 - 🌱 I’m currently learning Docker, Kubernetes, CI with Jenkins and other tools, microservices development using Java (Spring), Node.js and Python, and DDD.
 - 🤔 I’m developing a Discord Bot for general usage. It can play music on voice channels e send interesting information as messages. See the [code](https://github.com/elis-platform).
 - 😄 Pronouns: he/him.

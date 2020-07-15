@@ -6,7 +6,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/mellomaths)](https://t.me/mellomaths)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mellomaths@gmail.com)](mailto:mellomaths@gmail.com)
 
-- 💻 I’m currently a APIs and Microservices developer at [Sensedia](https://sensedia.com/).
+- 💻 I’m currently working at [Sensedia](https://sensedia.com/) developing APIs and Microservices.
 - 📜 I am a Computer Science student at Rio de Janeiro State University - [UERJ](https://www.uerj.br/).
 - 🔭 Sometimes I'm streaming on [my channel](https://www.twitch.tv/mellomathsz) at Twitch.
 - 🎯 I love to develop APIs and backend applications with Java, Python or Node.js.

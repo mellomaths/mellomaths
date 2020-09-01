@@ -10,7 +10,7 @@
 - 📜 I am a Computer Science student at Rio de Janeiro State University - [UERJ](https://www.uerj.br/).
 - 🔭 Sometimes I'm streaming on [my channel](https://www.twitch.tv/mellomathsz) at Twitch.
 - 🎯 I love to develop APIs and backend applications with Java, Python or Node.js.
-- 🌱 I’m currently learning Docker, Kubernetes, CI with Jenkins and other tools, DDD and microservices development using Java (with Spring), Node.js (with NestJS) and Python (with Nameko, Flask and FastAPI).
+- 🌱 I’m currently learning Docker, Kubernetes, CI with Jenkins and other tools, DDD, Hexagonal Architecture and microservices development using Java (with Spring), Node.js (with NestJS) and Python (with Nameko, Flask and FastAPI).
 - 🤔 I’m developing a Discord Bot for general usage. It can play music on voice channels e send interesting information as messages. See the [code](https://github.com/elis-platform).
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - Flamengo ❤🖤), to watch movies (🎞️) and series (📺), to read books (📚) and I am always listening to music (🎵). Currently missing all the beer drinking (🍺) in Rio pubs.

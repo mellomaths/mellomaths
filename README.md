@@ -15,6 +15,7 @@
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - Flamengo ❤🖤), to watch movies (🎞️) and series (📺), to read books (📚) and I am always listening to music (🎵). Currently missing all the beer drinking (🍺) in Rio pubs.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=mellomaths)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mellomaths&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mellomaths&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+

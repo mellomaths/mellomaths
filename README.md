@@ -3,9 +3,9 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/mellomaths)](https://github.com/mellomaths)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mellomaths/)](https://www.linkedin.com/in/mellomaths/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mellomaths)](https://twitter.com/mellomaths)
+[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mellomaths)](https://www.instagram.com/mellomaths)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/mellomaths)](https://t.me/mellomaths)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mellomaths@gmail.com)](mailto:mellomaths@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mellomaths)](https://www.instagram.com/mellomaths)
 
 
 - 💻 I’m currently working at [Sensedia](https://sensedia.com/) developing APIs and Microservices.

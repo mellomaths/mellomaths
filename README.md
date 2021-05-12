@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mellomaths@gmail.com)](mailto:mellomaths@gmail.com)
 
 
-- 💻 I’m currently working at [Sensedia](https://sensedia.com/) developing APIs and Microservices.
+- 💻 I’m currently working at [Wex](https://wexinc.com/) developing APIs and Microservices.
 - 📜 I am a Computer Science student at Rio de Janeiro State University - [UERJ](https://www.uerj.br/).
 - 🔭 Sometimes I'm streaming on [my channel](https://www.twitch.tv/mellomathsz) at Twitch.
 - 🎯 I love to develop APIs and backend applications with Java, Python or Node.js.

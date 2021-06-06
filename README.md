@@ -18,10 +18,13 @@
 - ⚡ Fun fact: I am a Brazilian from Rio de Janeiro and in my free time, I like to play videogames (🎮), to watch soccer (⚽️ - Flamengo ❤🖤), to watch movies (🎞️) and series (📺), to read books (📚) and I am always listening to music (🎵). Currently missing all the beer drinking (🍺) in Rio pubs.
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mellomaths&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellomaths&layout=compact&theme=dracula" />
+<center>
+  <table>
+    <tr>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=mellomaths&count_private=true&show_icons=true&theme=dracula" /></td>
+      <td><img width="420px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellomaths&layout=compact&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>  
 </a>
 

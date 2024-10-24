@@ -5,7 +5,8 @@
 [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/mellomaths)](https://www.instagram.com/mellomaths)
 
 
-- 💻 I’m currently working as a Senior Software Engineer at [Wex](https://wexinc.com/). 
+- 💻 I’m currently working as a Senior Software Engineer at [Wex](https://wexinc.com/).
+- Languages I'm used to work with: Python, TypeScript and Java.
 - 📜 I am a Computer Science student at Rio de Janeiro State University - [UERJ](https://www.uerj.br/).
 - 🎯 I love APIs and backend applications.
 - 🌱 Currently, I am studying to become a more complete developer, especially in areas such as: Data Engineering, Data Science and Software Architecture.
